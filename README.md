@@ -26,9 +26,9 @@ nc (netcat) for port scanning.
 
 Clone the repository and set executable permissions:
 
-git clone https://github.com/yourusername/bash-scanner-tool.git  
-cd bash-scanner-tool  
-chmod +x scanner.sh  
+git clone https://github.com/H3x0ra/Sqr.git  
+cd Sqr
+chmod +x Sqr.sh  
 
 Run the tool:
 
